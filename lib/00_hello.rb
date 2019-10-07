@@ -1,7 +1,7 @@
-def hello
-
+def hello #première fonction "Hello"
+    return "Hello!"
 end
 
-def greet(name)
-
+def greet (name) #seconde fonction
+    "Hello, #{name}!"
 end
